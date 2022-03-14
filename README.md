@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @m4aaster
 - 👀 I’m interested in Lua.
-- 🌱 I’m currently learning C++, C# and JS.
+- 🌱 I’m currently learning C++, Python, Bash and JS.
