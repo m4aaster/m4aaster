@@ -1,3 +1,3 @@
 ![m4aaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4aaster&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4aaster&layout=compact)](https://github.com/m4aaster/github-readme-stats)
+![image](https://user-images.githubusercontent.com/86815392/164910430-19adfcb8-d654-49e4-b963-10b37d4de8f6.png)
